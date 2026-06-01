@@ -1,0 +1,42 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Ember Blend",
+    "description": "Signature medium roast with notes of dark chocolate, caramel, and a hint of smokiness. Perfect for espresso or drip.",
+    "price": 4.50,
+    "imageName": "brew",
+    "category": "Featured Roasts"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Origin Guatemala",
+    "description": "Single-origin from Huehuetenango region. Bright acidity, wine-like body, with citrus and floral undertones.",
+    "price": 5.25,
+    "imageName": "guatemala",
+    "category": "Featured Roasts"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "name": "Cold Brew Reserve",
+    "description": "Specially selected beans cold-brewed for 18 hours. Smooth, naturally sweet, with notes of vanilla and nuts.",
+    "price": 5.75,
+    "imageName": "coldbrew",
+    "category": "Cold Drinks"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000004",
+    "name": "French Vanilla Latte",
+    "description": "Smooth espresso with steamed milk and a touch of sweet vanilla. A crowd favourite.",
+    "price": 5.00,
+    "imageName": "brew",
+    "category": "Hot Drinks"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000005",
+    "name": "Iced Caramel Macchiato",
+    "description": "Espresso poured over cold milk and ice, finished with a drizzle of caramel sauce.",
+    "price": 5.50,
+    "imageName": "macchiato",
+    "category": "Cold Drinks"
+  }
+]

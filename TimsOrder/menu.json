@@ -1,0 +1,58 @@
+[
+  {
+    "id": "00000000-0000-0000-0000-000000000001",
+    "name": "Avocado Toast",
+    "description": "Sourdough toast topped with smashed avocado, cherry tomatoes, feta, and a drizzle of chili oil.",
+    "price": 12.50,
+    "imageName": "brew",
+    "category": "Breakfast"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000002",
+    "name": "Signature Breakfast Bowl",
+    "description": "Scrambled eggs, roasted sweet potato, sautéed greens, and salsa verde in a warm grain bowl.",
+    "price": 14.75,
+    "imageName": "guatemala",
+    "category": "Breakfast"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000003",
+    "name": "Grilled Chicken Wrap",
+    "description": "Herb-marinated chicken, romaine, roasted peppers, and chipotle aioli in a toasted flour wrap.",
+    "price": 13.50,
+    "imageName": "macchiato",
+    "category": "Lunch"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000004",
+    "name": "Mushroom Flatbread",
+    "description": "Wild mushrooms, caramelized onions, goat cheese, and fresh thyme on a crispy flatbread.",
+    "price": 11.95,
+    "imageName": "coldbrew",
+    "category": "Lunch"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000005",
+    "name": "Cold Brew",
+    "description": "House cold brew steeped for 18 hours. Smooth, bold, naturally sweet. Served over ice.",
+    "price": 5.50,
+    "imageName": "coldbrew",
+    "category": "Drinks"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000006",
+    "name": "Matcha Latte",
+    "description": "Ceremonial grade matcha whisked with oat milk. Earthy, creamy, and energizing.",
+    "price": 6.25,
+    "imageName": "brew",
+    "category": "Drinks"
+  },
+  {
+    "id": "00000000-0000-0000-0000-000000000007",
+    "name": "Chocolate Lava Cake",
+    "description": "Warm dark chocolate cake with a molten centre, served with vanilla bean gelato.",
+    "price": 9.00,
+    "imageName": "macchiato",
+    "category": "Desserts"
+  }
+]
